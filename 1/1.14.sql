@@ -1,0 +1,1 @@
+SELECT concat(FirstName,' ', MiddleName,' ', LastName)FROM Person.personwhere Title is null

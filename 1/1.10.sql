@@ -1,0 +1,1 @@
+SELECT nameFROM Production.Productwhere SellStartDate<'2013-01-01'
